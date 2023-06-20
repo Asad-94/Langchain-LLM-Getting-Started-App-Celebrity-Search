@@ -6,4 +6,4 @@ Important points to be noted:
 
 2) After every update in requirements.txt file, run it again using:
 
-## pip install -r requirements.txt
+##### pip install -r requirements.txt
